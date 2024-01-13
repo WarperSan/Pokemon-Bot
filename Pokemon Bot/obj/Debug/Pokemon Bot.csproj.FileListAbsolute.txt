@@ -1,0 +1,7 @@
+C:\Users\Phillipe\source\repos\Pokemon Bot\Pokemon Bot\bin\Debug\Pokemon Bot.exe.config
+C:\Users\Phillipe\source\repos\Pokemon Bot\Pokemon Bot\bin\Debug\Pokemon Bot.exe
+C:\Users\Phillipe\source\repos\Pokemon Bot\Pokemon Bot\bin\Debug\Pokemon Bot.pdb
+C:\Users\Phillipe\source\repos\Pokemon Bot\Pokemon Bot\obj\Debug\Pokemon Bot.csproj.AssemblyReference.cache
+C:\Users\Phillipe\source\repos\Pokemon Bot\Pokemon Bot\obj\Debug\Pokemon Bot.csproj.CoreCompileInputs.cache
+C:\Users\Phillipe\source\repos\Pokemon Bot\Pokemon Bot\obj\Debug\Pokemon Bot.exe
+C:\Users\Phillipe\source\repos\Pokemon Bot\Pokemon Bot\obj\Debug\Pokemon Bot.pdb
